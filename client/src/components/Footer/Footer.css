@@ -1,0 +1,16 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px 15px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    background-color: #555;
+    display: flex;
+    justify-content: center;align-items: center;
+}
+.footer h1 {
+    font-size: 20px;
+    color: #fff;
+}

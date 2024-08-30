@@ -1,0 +1,30 @@
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 70px;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.login h1 {
+    margin: 20px 0;
+}
+.login input{
+margin: 10px 0;
+padding: 12px;
+width: 100%;
+font-size: 17px;
+}
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 13px;
+    width: 50%;
+    background-color: #555;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+}
